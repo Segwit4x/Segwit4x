@@ -10,6 +10,8 @@ Copyright (c) 2009-2017 The Bitcoin Core Developers
 
 Copyright (c) 2014-2017 The Groestlcoin Core Developers
 
+Copyright (c) 2017 The Bitcoin Segwit4x Developers
+
 What is Bitcoin Segwit4x?
 -----------------
 
