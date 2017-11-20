@@ -4,8 +4,6 @@ Forked from Groestlcoin October 2017
 
 Bitcoin Segwit4x Core Wallet
 
-http://nosite.com
-
 Copyright (c) 2009-2017 The Bitcoin Core Developers
 
 Copyright (c) 2014-2017 The Groestlcoin Core Developers
@@ -20,9 +18,6 @@ anyone, anywhere in the world. Bitcoin Segwit4x uses peer-to-peer technology to 
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Segwit4x is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Segwit4x software, see http://nosite.com.
 
 License
 -------
