@@ -1,39 +1,31 @@
-Groestlcoin integration/staging tree
+Bitcoin Segwit4x integration/staging tree
 =================================
-Forked from Bitcoin reference wallet 0.8.6
+Forked from Groestlcoin October 2017
 
-Updated to Bitcoin reference wallet 0.11.0 on August 2015
+Bitcoin Segwit4x Core Wallet
 
-Updated to Bitcoin reference wallet 0.13.3 on January 2017
-
-Groestlcoin Core Wallet
-
-http://www.groestlcoin.org
-
-The algorithm was written as a candidate for sha3
-
-https://bitcointalk.org/index.php?topic=525926.0
+http://needswebsite.com
 
 Copyright (c) 2009-2017 The Bitcoin Core Developers
 
 Copyright (c) 2014-2017 The Groestlcoin Core Developers
 
-What is Groestlcoin?
+What is Bitcoin Segwit4x?
 -----------------
 
-Groestlcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Groestlcoin uses peer-to-peer technology to operate
+Bitcoin Segwit4x is an hardfork of Groestlcoin that enables instant payments to
+anyone, anywhere in the world. Bitcoin Segwit4x uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Groestlcoin Core is the name of open source
+out collectively by the network. Bitcoin Segwit4x is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Groestlcoin Core software, see http://www.groestlcoin.org/download.
+the Bitcoin Segwit4x software, see http://needswebsite.com.
 
 License
 -------
 
-Groestlcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bitcoin Segwit4x Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development Process
@@ -54,8 +46,8 @@ match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or a
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/groestlcoin/groestlcoin/tags) are created
-regularly to indicate new official, stable release versions of Groestlcoin.
+completely stable. [Tags](https://github.com/Segwit4x/Segwit4x/tags) are created
+regularly to indicate new official, stable release versions of Bitcoin Segwit4x.
 
 Testing
 -------
@@ -111,7 +103,7 @@ that run in -regest mode.
 
 **DEBUG_LOCKORDER**
 
-Groestlcoin Core is a multithreaded application, and deadlocks or other multithreading bugs
+Bitcoin Segwit4x is a multithreaded application, and deadlocks or other multithreading bugs
 can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
 CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of what locks
 are held, and adds warning to the debug.log file if inconsistencies are detected.
