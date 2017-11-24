@@ -1,0 +1,5 @@
+1) code portions to change listening port. (for a chain split that is intended to stay a chainsplit)
+2) code portions to signal readiness for the fork. (the versionid thing i was talking about, not sure if versionid is the right word for that) (for a chain split that is intended to be an upgrade)
+3) code portions to block noncompliant updates. (for an upgrade chainsplit)
+4) replay protection code. (we will need to understand this at some point)
+5) PoW change
